@@ -7,7 +7,7 @@ My background is predominantly in gaming and entertainment industry with experie
 
 I am a beginner in the field of Data Science and my goal is to be a Data Scientist. 
 
-I completed a course in Data Analytics program with Academy XI and learned the fundamentals of Data Science in Python, SQL and Tableau. 
+I completed a course in Data Analytics program with Academy XI and learned the fundamentals of Data Science in Python, SQL and Power BI. 
 
 My journey to become a Data Scientist is on it's way and by practicing everyday, I will achieve my goal one sweet day.
 
